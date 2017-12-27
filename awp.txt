@@ -1,2 +1,6 @@
 enter
-www
+<<<<<<< HEAD
+qwerty
+=======
+hi
+>>>>>>> new
